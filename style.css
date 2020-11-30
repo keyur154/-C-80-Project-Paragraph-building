@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: yellow;
+}
+
+h3 {
+    color: blue;
+}
+
+input {
+    color: chartreuse;
+    background-color: rgb(255, 0, 0);
+}
+
+#col_1 {
+    float: left;
+}
+
+#col_2 {
+    float: right;
+}
+
+#showpara1 {
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+}
+
+#showpara2 {
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+}
